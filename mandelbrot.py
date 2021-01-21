@@ -4,8 +4,8 @@
     The Mandelbrot Set is the set of complex numbers c such that the orbit of zero 
     of the cuadratic function f(z, c) = z**2 + c remains bounded.
     
-    Thus M = { c | o(0, c) is bounded}
-    
+    Thus M = { c | o(0, c) is bounded}.
+
     The Mandelbrot Set is contained in the disk centered in zero with radius 2.
 
 """
